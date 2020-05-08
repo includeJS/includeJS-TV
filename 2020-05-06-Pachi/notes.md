@@ -32,4 +32,5 @@
 
 ## Funny quotes 💬
 
-* (Pachi): HTML is the backbone of a website and CSS is the makeup."
+* (Pachi): "HTML is the backbone of a website and CSS is the makeup."
+* (Pachi): "You have to close your tags, people!"
