@@ -49,3 +49,5 @@ CSS Grid! - "Making CSS one big layout family." 🎉
 * "Falling forward": code the baseline and add an extra for browsers that support it.
 
 * Flex gap property is coming! 🎉
+
+* In `display: grid` you get rid off collapsed margins!
